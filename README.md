@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>SQL</b>
+- <b>SQL (in progress)</b>
   - [](https://github.com/dyim11/)
-- <b>Python</b>
+- <b>Python (in progress)</b>
   - [Paint Consultant Robot](https://github.com/dyim11/)
-- <b>R</b>
+- <b>R (completed; will be uploaded soon)</b>
    - [](https://github.com/dyim11/)
    - [](https://github.com/dyim11/)
    - [](https://github.com/dyim11/)
