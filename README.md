@@ -13,7 +13,7 @@
    - [](https://github.com/dyim11/)
    - [](https://github.com/dyim11/)
 - <b>Excel</b>
-  - [Gas Mileage Calculator and Dashboard]([https://github.com/dyim11/](https://github.com/dyim11/dyim11/blob/main/Gas%20Mileage.xlsx))
+  - [Gas Mileage Calculator and Dashboard]([https://github.com/dyim11/](https://github.com/dyim11/dyim11/blob/main/Gas%20Mileage.xlsx)
   - [Random Password Generator](https://github.com/dyim11/)
 
 <h2>👨‍💻 Certifications:</h2>
