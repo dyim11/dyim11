@@ -16,6 +16,12 @@
   - [Gas Mileage Calculator and Dashboard (click View raw)](https://github.com/dyim11/dyim11/blob/main/Gas%20Mileage.xlsx)
   - [Random Password Generator (click View raw)](https://github.com/dyim11/dyim11/blob/main/Gas%20Mileage.xlsx)
 
+- <b>Power BI (in progress)</b>
+  - [](https://github.com/dyim11/)
+
+- <b>Tableau (in progress)</b>
+  - [](https://github.com/dyim11/)
+
 <h2>👨‍💻 Certifications:</h2>
 
 -  [Google Data Analytics Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/G2PDUC5SDVSQ)
