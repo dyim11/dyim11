@@ -7,11 +7,11 @@
 - <b>Python (in progress)</b>
   - [Paint Consultant Robot](https://github.com/dyim11/)
 - <b>R (completed; will be uploaded soon)</b>
-   - [](https://github.com/dyim11/)
-   - [](https://github.com/dyim11/)
-   - [](https://github.com/dyim11/)
-   - [](https://github.com/dyim11/)
-   - [](https://github.com/dyim11/)
+   - [Assignment 1 - Basic Statistics](https://github.com/dyim11/dyim11/blob/main/Assignment%201%20-%20Daniel%20Yim.pdf)
+   - [Assignment 2 - Histogram, Boxplot, Scatterplot](https://github.com/dyim11/dyim11/blob/main/Assignment%202%20-%20Daniel%20Yim.pdf)
+   - [Assignment 3 - t-test, hypothesis testing, Chi-square, ](https://github.com/dyim11/dyim11/blob/main/Assignment%203%20-%20Daniel%20Yim.pdf)
+   - [Assignment 4 - A/B Testing Knowledge](https://github.com/dyim11/dyim11/blob/main/Assignment%204%20-%20Daniel%20Yim.docx)
+   - [Assignment 5 - Linear and Multiple Regression Analysis](https://github.com/dyim11/dyim11/blob/main/Assignment%205%20-%20Daniel%20Yim.pdf)
 - <b>Excel</b>
   - [Gas Mileage Calculator and Dashboard (click View raw)](https://github.com/dyim11/dyim11/blob/main/Gas%20Mileage.xlsx)
   - [Random Password Generator (click View raw)](https://github.com/dyim11/dyim11/blob/main/Gas%20Mileage.xlsx)
