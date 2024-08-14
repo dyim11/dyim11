@@ -13,10 +13,6 @@
    - [Assignment 4 - A/B Testing Knowledge](https://github.com/dyim11/dyim11/blob/main/Assignment%204%20-%20Daniel%20Yim.docx)
    - [Assignment 5 - Linear and Multiple Regression Analysis](https://github.com/dyim11/dyim11/blob/main/Assignment%205%20-%20Daniel%20Yim.pdf)
 
-- <b>Alteryx</b>
-  - [Excel fill down template (use with Alteryx to copy down rows for multiple columns quickly](https://github.com/dyim11/dyim11/blob/main/Multirow%20template.xlsx)
-  - [Utilizing fill down template together with Join Multiple Function]()
-
 - <b>Excel</b>
   - [Gas Mileage Calculator and Dashboard (click View raw)](https://github.com/dyim11/dyim11/blob/main/Gas%20Mileage.xlsx)
   - [Random Password Generator (click View raw)](https://github.com/dyim11/dyim11/blob/main/Gas%20Mileage.xlsx)
