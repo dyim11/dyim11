@@ -6,7 +6,7 @@
   - [](https://github.com/dyim11/)
 - <b>Python (in progress)</b>
   - [Paint Consultant Robot](https://github.com/dyim11/)
-- <b>R (completed; will be uploaded soon)</b>
+- <b>R (R Studio)</b>
    - [Assignment 1 - Basic Statistics](https://github.com/dyim11/dyim11/blob/main/Assignment%201%20-%20Daniel%20Yim.pdf)
    - [Assignment 2 - Histogram, Boxplot, Scatterplot](https://github.com/dyim11/dyim11/blob/main/Assignment%202%20-%20Daniel%20Yim.pdf)
    - [Assignment 3 - t-test, hypothesis testing, Chi-square, ](https://github.com/dyim11/dyim11/blob/main/Assignment%203%20-%20Daniel%20Yim.pdf)
