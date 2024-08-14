@@ -15,7 +15,7 @@
 
 - <b>Alteryx</b>
   - [Excel fill down template (use with Alteryx to copy down rows for multiple columns quickly](https://github.com/dyim11/dyim11/blob/main/Multirow%20template.xlsx)
-  - [Utilizing fill down template (above) with Join Multiple Function]()
+  - [Utilizing fill down template together with Join Multiple Function]()
 
 - <b>Excel</b>
   - [Gas Mileage Calculator and Dashboard (click View raw)](https://github.com/dyim11/dyim11/blob/main/Gas%20Mileage.xlsx)
