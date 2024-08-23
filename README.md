@@ -26,6 +26,7 @@
 <h2>👨‍💻 Certifications:</h2>
 
 -  [Google Data Analytics Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/G2PDUC5SDVSQ)
+-  [SQL Basics - LearnSQL.com](https://learnsql.com/files/course-certificate/IJbXbkLPgcUEGPDoooDXfHxhITzVifSsWfHCCJzd)
 -  [Python Programming Masterclass](https://udemy-certificate.s3.amazonaws.com/pdf/UC-59d47324-ded8-4ab0-b55e-924b341ada50.pdf)
 -  [Alteryx Designer Core Certified](https://community.alteryx.com/t5/user/viewprofilepage/user-id/426306)
 -  [Microsoft Certified Excel Expert](https://www.credly.com/badges/9f4a20fa-f702-4bc9-829f-4a10ff415731/linked_in)
