@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>SQL (in progress)</b>
+- <b>SQL (more to come)</b>
   - [Exploring Sample Chinook Database in SQLite](https://github.com/dyim11/dyim11/blob/main/SQLite3%20-%20Chinook.xlsx)
 - <b>Python (in progress)</b>
   - [Paint Consultant Robot](https://github.com/dyim11/)
