@@ -4,8 +4,8 @@
 
 - <b>SQL (more to come)</b>
   - [Exploring Sample Chinook Database in SQLite suing 5 queries to analyze](https://github.com/dyim11/dyim11/blob/main/SQLite3%20-%20Chinook.xlsx)
-- <b>Python (in progress)</b>
-  - [Paint Consultant Robot](https://github.com/dyim11/)
+- <b>Python</b>
+  - [Paint Consultant Robot - v.1.0](https://github.com/dyim11/dyim11/blob/main/Paint%20Consultant%20Robot.docx)
 - <b>R (R Studio)</b>
    - [Assignment 1 - Basic Statistics](https://github.com/dyim11/dyim11/blob/main/Assignment%201%20-%20Daniel%20Yim.pdf)
    - [Assignment 2 - Histogram, Boxplot, Scatterplot](https://github.com/dyim11/dyim11/blob/main/Assignment%202%20-%20Daniel%20Yim.pdf)
