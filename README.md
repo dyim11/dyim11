@@ -18,9 +18,9 @@
   - [Random Password Generator (click View raw)](https://github.com/dyim11/dyim11/blob/main/Gas%20Mileage.xlsx)
 
 - <b>Tableau</b>
-  - [](https://github.com/dyim11/)
-  - [](https://github.com/dyim11/)
-  - [](https://github.com/dyim11/)
+  - [Happiness Score](https://github.com/dyim11/)
+  - [Happiness Dashboards](https://github.com/dyim11/)
+  - [Global CO2 Emissions](https://github.com/dyim11/)
 
 - <b>Power BI (in progress)</b>
   - [](https://github.com/dyim11/)
