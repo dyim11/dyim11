@@ -21,7 +21,7 @@
   - [Happiness Score](https://public.tableau.com/app/profile/daniel.yim/viz/HappinessScoremyfirstdatavisualization/Sheet2)
   - [Happiness Dashboards (correlation)](https://public.tableau.com/app/profile/daniel.yim/viz/HappinessDashboardsCorrelation/Dashboard1)
   - [Global CO2 Emissions (by continent)](https://public.tableau.com/app/profile/daniel.yim/viz/GlobalCO2Emissions_16704699738260/Sheet1)
-  - [Global Population, CO2, Energy, GDP](https://public.tableau.com/app/profile/daniel.yim/viz/LINKEDTABLESPOPCO2ENERGYGDP/Sheet1)
+  - [Global Stats (Population, CO2, Energy, GDP)](https://public.tableau.com/app/profile/daniel.yim/viz/LINKEDTABLESPOPCO2ENERGYGDP/Sheet1)
 
 - <b>Power BI (in progress)</b>
   - [](https://github.com/dyim11/)
