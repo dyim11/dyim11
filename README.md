@@ -18,9 +18,10 @@
   - [Random Password Generator (click View raw)](https://github.com/dyim11/dyim11/blob/main/Gas%20Mileage.xlsx)
 
 - <b>Tableau</b>
-  - [Happiness Score](https://github.com/dyim11/)
-  - [Happiness Dashboards](https://github.com/dyim11/)
-  - [Global CO2 Emissions](https://github.com/dyim11/)
+  - [Happiness Score](https://public.tableau.com/app/profile/daniel.yim/viz/HappinessScoremyfirstdatavisualization/Sheet2))
+  - [Happiness Dashboards (correlation)]([https://github.com/dyim11/](https://public.tableau.com/app/profile/daniel.yim/viz/HappinessDashboardsCorrelation/Dashboard1))
+  - [Global CO2 Emissions (by continent)](https://public.tableau.com/app/profile/daniel.yim/viz/GlobalCO2Emissions_16704699738260/Sheet1)
+  - [Global Population (CO2, Energy, GDP)](https://public.tableau.com/app/profile/daniel.yim/viz/LINKEDTABLESPOPCO2ENERGYGDP/Sheet1)
 
 - <b>Power BI (in progress)</b>
   - [](https://github.com/dyim11/)
