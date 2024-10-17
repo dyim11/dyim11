@@ -33,6 +33,7 @@
 -  [SQL Basics - LearnSQL.com](https://learnsql.com/files/course-certificate/IJbXbkLPgcUEGPDoooDXfHxhITzVifSsWfHCCJzd)
 -  [SQL Functions - LearnSQL.com](https://learnsql.com/files/course-certificate/HigTrjdmwqZuRBgwdPcIXwBdntILXgnBdPQzmKWh)
 -  [How to INSERT, UPDATE, and DELETE Data in SQL - LearnSQL.com](https://learnsql.com/files/course-certificate/IFLyiltUShAVXWMNesbsEcExesHijOiRpHBusTXy)
+-  [Creating Basic SQL Reports - LearnSQL.com](https://learnsql.com/files/course-certificate/sweNsHimqviAtdOfiJEgzqedqEGjOUDrulKJpssp)
 -  [Python Programming Masterclass](https://udemy-certificate.s3.amazonaws.com/pdf/UC-59d47324-ded8-4ab0-b55e-924b341ada50.pdf)
 -  [Alteryx Designer Core Certified](https://community.alteryx.com/t5/user/viewprofilepage/user-id/426306)
 -  [Microsoft Certified Excel Expert](https://www.credly.com/badges/9f4a20fa-f702-4bc9-829f-4a10ff415731/linked_in)
